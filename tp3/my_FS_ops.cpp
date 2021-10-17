@@ -14,7 +14,7 @@
 
 #define PORT 8080
 #define DIR "./files/"
-#define LIM_CACHE 2000000
+#define LIM_CACHE 524288
 #define MSG_NOT_FOUND "archivo no encontrado"
 
 using namespace std;
