@@ -33,14 +33,6 @@ int main(int argc, char const *argv[]) {
         cout << "buscando archivo: " << file << endl;
 		result = get_file_1(&file, clnt);
         cout << *result << endl;
-
-		// if (result != NULL) {
-		// 	cout << "Resultado: " << *result << endl;
-		// }
-		// else {
-		// 	cerr << "error" << endl;
-		// 	clnt_perror(clnt, server);
-		// }
         
         exit(EXIT_SUCCESS);
     }
