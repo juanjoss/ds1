@@ -1,4 +1,4 @@
-# distributed-systems
+# Distributed Systems I
 Assignments for distributed systems I. Systems Engineering at UNLPAM.
 
 # TP 1: Sockets Programming
